@@ -15,6 +15,6 @@
   - Runtime: Python3
   - Dependencies: None
   - Usage: Put animations, subtitles, and the program in the same directory. Then run the program.
-  - Possible Issues: The program only recognizes the following file extensions. For more extensions, you need add `|(\.extension_name)` in the counterpart.
+  - Possible Issues: The program only recognizes the following file extensions. For more extensions, you need to add `|(\.extension_name)` in the counterpart.
     - Videos: `.mkv`, `.mp4`, `.avi`, `.mov`
     - Subtitles: `.ssa`, `.ass`, `.srt`, `.smi`
