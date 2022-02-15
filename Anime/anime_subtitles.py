@@ -42,4 +42,5 @@ def converter():
         shutil.copyfile(subtitle, new_subtitle)
 
 
-converter()
+if __name__ == '__main__':
+    converter()
